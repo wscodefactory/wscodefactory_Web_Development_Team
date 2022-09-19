@@ -1,0 +1,55 @@
+C언어 공부 사이트 추천
+코딩도장
+동영상 강좌와 코드 설명 등 간편하게 되어 있음. 
+
+https://dojang.io/course/view.php?id=2
+
+ 
+
+온라인GDB
+온라인 디버거. 온라인에서 직접 C언어를 간편하게 짜고 컴파일을 해서 결과를 보기 좋음 
+
+https://www.onlinegdb.com/
+
+ 
+
+ 
+
+C튜터, 정확히는 파이썬튜터닷컴
+C언어 코드를 실행하면 실행 순서를 라인순서대로 이미지화하여 보여주기 때문에 이해하기 좋음. 
+
+웹기반의 시각화툴
+
+http://pythontutor.com/c.html#mode=edit
+
+ 
+
+파이썬 튜터닷컴의 경우 이름이 파이썬이지만, C언어와 다른 여러 언어들을 지원하고 있다. 
+
+현재 180개국의 350만 유저들이 사용하고 있다고.. 
+
+ 
+
+톡파이썬투미 팟캐스트에서 사이트를 만든 사람과의 인터뷰를 들을 수 있다. (추천!)
+
+https://talkpython.fm/episodes/show/22/cpython-internals-and-learning-python-with-pythontutor.com
+
+ 
+CPython Internals and Learning Python with pythontutor.com
+
+It's time to look deep within the machine and understand what *really* happens when your Python code executes. We're code-walking through the CPython code and visualizing it at pythontutor.com.
+
+talkpython.fm
+파이썬튜터닷컴을 만든 Philip Guo는 UC San Diego에서 인지과학 분야 조교수로 근무하고 있다. 
+
+
+그 외 C언어 공부법 관련 블로그 
+ 
+
+https://sunyzero.tistory.com/225
+
+ 
+
+https://www.joinc.co.kr/w/Site/Beginner/StudyHowTo
+
+ 
