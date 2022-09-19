@@ -1,0 +1,20 @@
+https://www.youtube.com/watch?v=i0FN-OwJ7QI&list=PLv2d7VI9OotQ1F92Jp9Ce7ovHEsuRQB3Y&index=5
+
+🔗 Resources:
+Wikipedia 
+- HTML: https://en.wikipedia.org/wiki/HTML
+- Markup language: https://en.wikipedia.org/wiki/Markup_...
+- UTF-8: https://en.wikipedia.org/wiki/UTF-8
+
+MDN
+HTML elements reference: https://developer.mozilla.org/en-US/d...
+Document and website structure: https://developer.mozilla.org/en-US/d...
+
+Validator: https://validator.w3.org/
+
+Playground: http://jsbin.com/
+
+숙제는 여기서: https://en.wikipedia.org/wiki/HTML
+
+숙제도 다 하고 너무너무너무 심심하시면:
+https://www.w3.org/TR/html52/introduc...
