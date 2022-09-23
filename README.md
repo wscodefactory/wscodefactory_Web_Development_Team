@@ -2,7 +2,7 @@
 -  This is @wscodefactory
 - ⚓🚢 I'm currently serving in the military.
 - 🌱 I had learned Python,Java,C.
-- 💻 I'm currently studying web development.\n
+- 💻 I'm currently studying web development.   
 #And 
 ✨This is my wsfactory's web development lab✨
 <!---
